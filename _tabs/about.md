@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![siesta-avatar](/img/siesta-avatar.png){: .left width="150rem" height="150rem" }
+![siesta-avatar](/img/siesta-avatar-transparent.png){: .left width="150rem" height="150rem" }
 
 |Biography||Characteristics|
 |-|-|-|
