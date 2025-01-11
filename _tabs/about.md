@@ -6,7 +6,7 @@ order: 4
 
 ![siesta-avatar](/img/siesta-avatar.png){: .left width="150rem" height="150rem" }
 
-|Biographical Information||Characteristics|
+|Biography||Characteristics|
 |-|-|-|
 |Japanese: |ディオ・ホワイト|Gender: |Female|
 |Romaji: |*dio Howaitō*|Age: |18 (2025)|
