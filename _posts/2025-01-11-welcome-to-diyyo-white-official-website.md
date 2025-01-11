@@ -7,7 +7,7 @@ comments: false
 pin: true
 ---
 
-![welcome-banner](https://dyo.pages.dev/img/diyyo/welcomebanner25.png)
+![welcome-banner](/img/welcomebanner25.png)
 
 **Hey there! ✨** I’m so glad you’ve found your way here. This little corner of the internet is where I share my thoughts, ideas, and the things that inspire me. Whether you’re here for a quick read, some inspiration, or just to hang out, you’re always welcome.
 

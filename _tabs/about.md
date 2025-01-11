@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![siesta-avatar](https://dyo.pages.dev/img/diyyo/siesta-peace.png){: .left width="150rem" height="150rem" }
+![siesta-avatar](/img/siesta-avatar.png){: .left width="150rem" height="150rem" }
 
 |Biographical Information||Characteristics|
 |-|-|-|
@@ -16,7 +16,7 @@ order: 4
 
 ## Character Representation
 
-![siesta-char2](https://dyo.pages.dev/img/diyyo/siesta-char2.png){: .right width="140rem" height="300rem" }
+![siesta-char1](/img/siesta-char1.png){: .right width="140rem" height="300rem" }
 
 <p style='text-align: justify;'>diyyo White is represented with a character named <a href="https://the-detective-is-already-dead.fandom.com/wiki/Siesta">Siesta</a>, she is the titular heroine of <a href="https://the-detective-is-already-dead.fandom.com/">The Detective is Already Dead</a> (探偵はもう 、死んでいる。 <i>Tantei wa Mou, Shindeiru.</i>) series, who calls herself the Great Detective.<br><br>
 
